@@ -1,0 +1,7 @@
+#Fri Jan 06 22:11:57 CET 2017
+base.0=/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0fc3f2f0333921ef1b8108a6b32b54fc70e49305
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b49e16f06d4f881c850e9ae240d49f07cfaa162c/classes.dex
+base.1=/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b49e16f06d4f881c850e9ae240d49f07cfaa162c
+file.0=/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0fc3f2f0333921ef1b8108a6b32b54fc70e49305/classes.dex

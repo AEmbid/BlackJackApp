@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BlackJackApp</string>
+    <string name="about">sobre</string>
+    <string name="ask">OTRA</string>
+    <string name="bye">¡Hasta luego!</string>
+    <string name="exit">Salir</string>
+    <string name="h_scores">Mejores puntuaciones</string>
+    <string name="restart">REPARTIR</string>
+    <string name="score">PUNTUACIÓN:</string>
+    <string name="start">INICIAR JUEGO</string>
+    <string name="stop">PARA</string>
+    <string name="title_activity_game">BlackJack</string>
+    <string name="value">Tu mano:</string>
+</resources>
