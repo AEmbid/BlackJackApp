@@ -12,4 +12,5 @@
     <string name="ask">HIT</string>
     <string name="stop">STAND</string>
     <string name="value">Your Hand:</string>
+    <string name="undo">restart</string>
 </resources>

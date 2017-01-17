@@ -12,4 +12,5 @@
     <string name="stop">PARA</string>
     <string name="title_activity_game">BlackJack</string>
     <string name="value">Tu mano:</string>
+    <string name="undo">reiniciar</string>
 </resources>

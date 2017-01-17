@@ -354,9 +354,7 @@
     <string name="about">About</string>
     <string name="app_name">BlackJackApp</string>
     <string name="ask">HIT</string>
-    <string name="bye">Hasta luego!</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="bye">See you!</string>
     <string name="exit">exit</string>
     <string name="h_scores">High-scores</string>
     <string name="restart">DEAL</string>
@@ -366,6 +364,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop">STAND</string>
     <string name="title_activity_game">BlackJack</string>
+    <string name="undo">restart</string>
     <string name="value">Your Hand:</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

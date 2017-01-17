@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v16/notification_template_custom_big.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v16\\notification_template_custom_big.xml"
     }
 ]

@@ -1,166 +1,330 @@
 [
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_title_item.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_time.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action_tombstone.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_jack.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\src\\main\\res\\layout\\activity_black_jack.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_bar.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/activity_game.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/src/main/res/layout/activity_game.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\src\\main\\res\\layout\\activity_game.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_up_container.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media_custom.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_item_material.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_icon_group.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_toolbar.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/activity_black_jack.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/src/main/res/layout/activity_black_jack.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_dialog_title_material.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_view.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_content_include.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_title_material.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_select_dialog_material.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_chronometer.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_lines_media.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_layout.xml"
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/adrian/Escritorio/AndroidApps/BlackJackApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_jack.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\src\\main\\res\\layout\\activity_black_jack.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "H:\\PortableGit\\BlackJackAPP\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "H:\\home\\adrian\\Escritorio\\AndroidApps\\BlackJackApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_item_material.xml"
     }
 ]

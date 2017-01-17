@@ -19,6 +19,19 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="about">sobre</string>
+    <string name="app_name">BlackJackApp</string>
+    <string name="ask">OTRA</string>
+    <string name="bye">¡Hasta luego!</string>
+    <string name="exit">Salir</string>
+    <string name="h_scores">Mejores puntuaciones</string>
+    <string name="restart">REPARTIR</string>
+    <string name="score">PUNTUACIÓN:</string>
     <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
+    <string name="start">INICIAR JUEGO</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="stop">PARA</string>
+    <string name="title_activity_game">BlackJack</string>
+    <string name="undo">reiniciar</string>
+    <string name="value">Tu mano:</string>
 </resources>

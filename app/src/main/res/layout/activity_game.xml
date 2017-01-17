@@ -28,10 +28,16 @@
             android:textStyle="normal|bold" />
 
         <Button
-            android:text="@string/restart"
+            android:text="@string/undo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/btn_restart" />
+
+        <Button
+            android:text="@string/restart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_deal" />
 
 
 
@@ -65,46 +71,78 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 app:srcCompat="@mipmap/ic_launcher"
-                android:id="@+id/imageView2"
+                android:id="@+id/bank1"
                 android:layout_alignParentTop="true"
                 android:layout_alignParentStart="true"
-                android:layout_marginStart="77dp"
-                android:layout_marginTop="39dp"
-                android:adjustViewBounds="false" />
+                android:layout_marginStart="51dp"
+                android:layout_marginTop="42dp" />
 
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 app:srcCompat="@mipmap/ic_launcher"
-                android:id="@+id/imageView"
-                android:scaleType="fitXY"
-                android:layout_alignTop="@+id/imageView2"
-                android:layout_toEndOf="@+id/imageView2" />
+                android:id="@+id/bank2"
+                android:layout_marginStart="34dp"
+                android:layout_alignTop="@+id/bank1"
+                android:layout_toEndOf="@+id/bank1" />
 
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 app:srcCompat="@mipmap/ic_launcher"
-                android:layout_marginEnd="64dp"
-                android:id="@+id/imageView3"
-                android:layout_below="@+id/imageView"
-                android:layout_alignParentEnd="true"
-                android:layout_marginTop="131dp" />
+                android:id="@+id/bank3"
+                android:layout_alignTop="@+id/bank2"
+                android:layout_toEndOf="@+id/bank2"
+                android:layout_marginStart="33dp" />
 
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 app:srcCompat="@mipmap/ic_launcher"
-                android:id="@+id/imageView4"
-                android:layout_alignBottom="@+id/imageView3"
-                android:layout_toStartOf="@+id/imageView3" />
+                android:id="@+id/bank4"
+                android:layout_alignTop="@+id/bank3"
+                android:layout_toEndOf="@+id/bank3"
+                android:layout_marginStart="34dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@mipmap/ic_launcher"
+                android:id="@+id/user4"
+                android:layout_below="@+id/bank1"
+                android:layout_alignStart="@+id/bank1"
+                android:layout_marginTop="85dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@mipmap/ic_launcher"
+                android:id="@+id/user3"
+                android:layout_alignTop="@+id/user4"
+                android:layout_alignStart="@+id/bank2" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@mipmap/ic_launcher"
+                android:id="@+id/user2"
+                android:layout_alignTop="@+id/user3"
+                android:layout_alignStart="@+id/bank3" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@mipmap/ic_launcher"
+                android:id="@+id/user1"
+                android:layout_alignTop="@+id/user2"
+                android:layout_alignStart="@+id/bank4" />
         </RelativeLayout>
 
         <TextView
             android:text="@string/value"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/textView3"
+            android:id="@+id/handvalue"
             android:layout_weight="1"
             android:textAlignment="center"
             android:textStyle="normal|bold" />
